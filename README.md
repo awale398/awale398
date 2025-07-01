@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awale398&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awale398&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=awale398)](https://git.io/streak-stats)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
